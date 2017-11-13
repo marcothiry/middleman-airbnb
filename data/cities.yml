@@ -1,0 +1,47 @@
+- name: Berlin
+  country: Germany
+  user: Marc
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/berlin
+
+- name: Paris
+  country: France
+  user: Paul
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/paris
+
+- name: Shanghai
+  country: China
+  user: John
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/shanghai
+
+- name: Rio
+  country: Brazil
+  user: Karl
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/rio
+
+- name: Shanghai
+  country: China
+  user: John
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/shanghai
+
+- name: Rio
+  country: Brazil
+  user: Karl
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/rio
+
+- name: Shanghai
+  country: China
+  user: John
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/shanghai
+
+- name: Rio
+  country: Brazil
+  user: Karl
+  desc: Very cool city, the best
+  image_url: https://kitt.lewagon.com/placeholder/cities/rio
